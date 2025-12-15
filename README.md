@@ -97,13 +97,7 @@ InventoryManagementSystem/
 
 <hr>
 
-<h2>👨‍💻 Author</h2>
 
-<p>
-  <b>Karide Gnaneshwar</b><br>
-  📧 <a href="mailto:karidegnaneshwar@gmail.com">karidegnaneshwar@gmail.com</a><br>
-  🌐 <a href="https://github.com/KARIDEGNANESHWAR" target="_blank">github.com/KARIDEGNANESHWAR</a>
-</p>
 
 <p align="center">
   ⭐ If you find this project useful, please consider giving it a star on GitHub!
